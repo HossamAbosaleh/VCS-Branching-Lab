@@ -9,3 +9,7 @@ func mult(int n1, int n2){
 	return n1*  n2;
 
 }
+feature-1 (Func sum two number)
+func sum(int n1, int n2){
+	return n1 + n2;
+} 
