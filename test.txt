@@ -1,3 +1,11 @@
 test 1
 
-feature2 (make function sub 2numbers)
+Feature-2 (Func sub two number)
+func sub(int n1, int n2){
+	return n1 + n2;
+
+feature3(fun mult two numbers)
+func mult(int n1, int n2){
+	return n1*  n2;
+
+}
